@@ -1,0 +1,191 @@
+html,body,main{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.bannerPrincipal{
+    width: 100%;
+    height: 450px;
+    background: linear-gradient(to right,darkviolet,midnightblue);
+
+}
+
+
+.bannerContato{
+    padding: 80px;
+    width: 100%;
+    height: 400px;
+    background: linear-gradient(to right,darkviolet,midnightblue);
+}
+
+.containerPromo{
+    padding: 80px;
+    width: 900px;
+    height: 500px;
+    margin: 10px auto;
+}
+
+.containerPromoAvatar{
+    padding: 200px;
+    width: 900px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+
+
+.pacotesPromo{
+    padding: 10px;
+    margin: 50px 0 80px 0  ;
+    width: 270px;
+    height: 400px;
+    border: white 1px solid;
+    border-radius: 20px 20px 20px 20px;
+    background-color: white;
+}
+
+.pacotesPromoAvatar{
+    padding: 10px;
+    margin: 50px 0 80px 0  ;
+    width: 270px;
+    height: 400px;
+}
+
+
+.pacotesPromo h1{
+    font-size: 18px;
+    color: darkviolet;
+
+}
+.pacotesPromo p {
+    font-size: 17px;
+    color: #666666;
+}
+
+.titleSection h1{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+    color: darkblue;
+}
+
+.titleSection p{
+    text-align: center;
+    margin: 0 0 80px 0;
+
+}
+
+.containerPromo{
+    background-color: #F8F8FF;
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.containerPromoAvatar{
+    background-color: white;
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.caixPromos{
+    margin: 0 auto;
+}
+
+.caixPromosAvatar{
+    width: 500px;
+    margin: 0px auto;
+}
+
+#chatConver{
+    width: 150px;
+    height: 150px;
+}
+
+.contatoBanner{
+    margin: 0 auto;
+    padding: 10px;
+    width: 80%;
+    height: 50%;
+    border: white 1px solid;
+    border-radius: 20px 20px 20px 20px;
+    background-color: white;
+
+}
+
+.imgAvatar{
+    width: 30em;
+    height: 670px;
+}
+
+#avatar1img{
+    width: 40em;
+}
+
+#avatar1{
+    padding: 50px;
+    margin: 0 auto
+}
+
+.contatoBanner h4{
+    font-size: 17px;
+}
+
+.containerCaixasPromo{
+    padding: 50px;
+}
+
+#h1Avatar1{
+    margin: -340px 0 0 180px;
+    color: darkviolet;
+}
+
+.containerCaixasPromoavatar1{
+    margin-bottom: 300px;
+}
+
+.caixPromosAvatar #avatar1Text,#avatar2Text{
+    margin-top: 200px;
+}
+
+.caixPromosAvatar #avatar1Text h3,#avatar2Text h3{
+    color: darkviolet;
+}
+
+.caixPromosAvatar  #avatar1Text p,#avatar2Text p{
+    font-size: 20px;
+}
+
+
+.bannerPrincipal{
+    padding: 20px;
+
+}
+
+
+#janelaprincPrinc{
+    width: 1500px;
+    position: absolute;
+    height: 550px;
+    clip: rect(0 2000px 400px 0);
+}
+
+#janelaPrinc {
+    margin: auto;
+    position: relative;
+    width: 70%; /* Valor da Largura */
+    border-radius: 80px 80px 50px 10px;
+
+}
+
+img{
+    width: 1074px;
+    height: 400px;
+}
+
+
+
